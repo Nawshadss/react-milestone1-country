@@ -1,0 +1,11 @@
+.name {
+  border: 1px solid red;
+  border-radius: 10px;
+  text-align: center;
+  align-items: center;
+}
+
+.flex {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
